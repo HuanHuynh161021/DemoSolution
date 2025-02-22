@@ -18,6 +18,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Lab8_Bai2_Pc08063_KiemThuNangCao\Lab8_Bai2_Pc08063_KiemThuNangCao.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Using Include="NUnit.Framework" />
   </ItemGroup>
 

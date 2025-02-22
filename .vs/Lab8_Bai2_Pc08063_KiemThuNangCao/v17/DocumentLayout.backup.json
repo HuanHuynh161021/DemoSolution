@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\huanh\\source\\repos\\Lab8_Bai2_Pc08063_KiemThuNangCao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8007DF09-E49B-45D7-9C8C-82101D026D8E}|Lab8_Bai2_Pc08063_KiemThuNangCao\\Lab8_Bai2_Pc08063_KiemThuNangCao.csproj|c:\\users\\huanh\\source\\repos\\lab8_bai2_pc08063_kiemthunangcao\\lab8_bai2_pc08063_kiemthunangcao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8007DF09-E49B-45D7-9C8C-82101D026D8E}|Lab8_Bai2_Pc08063_KiemThuNangCao\\Lab8_Bai2_Pc08063_KiemThuNangCao.csproj|solutionrelative:lab8_bai2_pc08063_kiemthunangcao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D512B213-7FF2-4C4C-97E1-D802A560D9E6}|Lab8_Bai2_Test\\Lab8_Bai2_Test.csproj|c:\\users\\huanh\\source\\repos\\lab8_bai2_pc08063_kiemthunangcao\\lab8_bai2_test\\arrayutilstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D512B213-7FF2-4C4C-97E1-D802A560D9E6}|Lab8_Bai2_Test\\Lab8_Bai2_Test.csproj|solutionrelative:lab8_bai2_test\\arrayutilstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8007DF09-E49B-45D7-9C8C-82101D026D8E}|Lab8_Bai2_Pc08063_KiemThuNangCao\\Lab8_Bai2_Pc08063_KiemThuNangCao.csproj|c:\\users\\huanh\\source\\repos\\lab8_bai2_pc08063_kiemthunangcao\\lab8_bai2_pc08063_kiemthunangcao\\arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8007DF09-E49B-45D7-9C8C-82101D026D8E}|Lab8_Bai2_Pc08063_KiemThuNangCao\\Lab8_Bai2_Pc08063_KiemThuNangCao.csproj|solutionrelative:lab8_bai2_pc08063_kiemthunangcao\\arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayUtilsTests.cs",
+              "DocumentMoniker": "C:\\Users\\huanh\\source\\repos\\Lab8_Bai2_Pc08063_KiemThuNangCao\\Lab8_Bai2_Test\\ArrayUtilsTests.cs",
+              "RelativeDocumentMoniker": "Lab8_Bai2_Test\\ArrayUtilsTests.cs",
+              "ToolTip": "C:\\Users\\huanh\\source\\repos\\Lab8_Bai2_Pc08063_KiemThuNangCao\\Lab8_Bai2_Test\\ArrayUtilsTests.cs",
+              "RelativeToolTip": "Lab8_Bai2_Test\\ArrayUtilsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:02:32.457Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -26,15 +43,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\huanh\\source\\repos\\Lab8_Bai2_Pc08063_KiemThuNangCao\\Lab8_Bai2_Pc08063_KiemThuNangCao\\Program.cs",
-              "RelativeDocumentMoniker": "Lab8_Bai2_Pc08063_KiemThuNangCao\\Program.cs",
-              "ToolTip": "C:\\Users\\huanh\\source\\repos\\Lab8_Bai2_Pc08063_KiemThuNangCao\\Lab8_Bai2_Pc08063_KiemThuNangCao\\Program.cs",
-              "RelativeToolTip": "Lab8_Bai2_Pc08063_KiemThuNangCao\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ArrayUtils.cs",
+              "DocumentMoniker": "C:\\Users\\huanh\\source\\repos\\Lab8_Bai2_Pc08063_KiemThuNangCao\\Lab8_Bai2_Pc08063_KiemThuNangCao\\ArrayUtils.cs",
+              "RelativeDocumentMoniker": "Lab8_Bai2_Pc08063_KiemThuNangCao\\ArrayUtils.cs",
+              "ToolTip": "C:\\Users\\huanh\\source\\repos\\Lab8_Bai2_Pc08063_KiemThuNangCao\\Lab8_Bai2_Pc08063_KiemThuNangCao\\ArrayUtils.cs",
+              "RelativeToolTip": "Lab8_Bai2_Pc08063_KiemThuNangCao\\ArrayUtils.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T16:11:49.613Z",
+              "WhenOpened": "2025-02-22T17:02:09.005Z",
               "EditorCaption": ""
             }
           ]
